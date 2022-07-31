@@ -46,7 +46,7 @@ body{
 
 
 .landpage{
-    background: url('main-screen__bgc.png')  no-repeat center;
+    background: url(main-screen__bgc.png)  no-repeat center;
     height: 800px;
     background-size: cover;
     background-position: right top;
